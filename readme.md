@@ -1,0 +1,1 @@
+![alt text](https://github.com/facosta1/google-gen-ai-bootcamp/blob/main/challenge_five/Alaska%20Snow%20Dept%20Architecture.png?raw=true)
